@@ -1,0 +1,396 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:640px) {
+	#BG {
+		background-image: url(Images/Mob_BG.jpg);
+		position: absolute;
+		height: 100%;
+		z-index: 1;
+		background-size: cover;
+		background-attachment: fixed;
+  		background-position: 3% 0%;
+  		background-repeat: no-repeat;
+	}
+	
+	#DCLOGO {
+		display: none;
+	}
+	
+	#DCLOGO2 {
+		width: 100%;
+		height: 100%;
+	}
+	
+	video {
+		width: 90%;
+		height: 90%;
+	}
+	
+	#FILM1 {
+		display:none;
+	}
+	
+	#SHORTFILM1 {
+		display:none;
+	}
+	
+	#SHORTFILM2 {
+		display:none;
+	}
+	
+	#THEDAL1 {
+		display:none;
+	}
+	
+	#M {
+		display: none;
+	}
+	
+	#m {
+		display: none;
+	}
+	
+	#G {
+		display: none;
+	}
+	
+	#g {
+		display: none;
+	}
+	
+	#g3 {
+		display: none;
+	}
+	
+	#SS {
+		display: none;
+	}
+	
+	#ss {
+		display: none;
+	}
+	
+	#JJ {
+		display: none;
+	}
+	
+	#jj {
+		display: none;
+	}
+	
+	#KL {
+		display: none;
+	}
+	
+	#kl {
+		display: none;
+	}
+	
+	#R {
+		display: none;
+	}
+	
+	#r {
+		display: none;
+	}
+	
+	#SR {
+		display: none;
+	}
+	
+	#sr {
+		display: none;
+	}
+	
+	#D {
+		display: none;
+	}
+	
+	#d {
+		display: none;
+	}
+	
+	#T {
+		display: none;
+	}
+	
+	#t {
+		display: none;
+	}
+	
+	#A {
+		display: none;
+	}
+	
+	#a {
+		display: none;
+	}
+	
+	#Y {
+		display: none;
+	}
+	
+	#y {
+		display: none;
+	}
+	
+	#I {
+		display: none;
+	}
+	
+	#i {
+		display: none;
+	}
+	
+	#S {
+		display: none;
+	}
+	
+	#s {
+		display: none;
+	}
+}
+
+@media screen and (max-width:1920px) {
+	#YAAR {
+		max-width: 100%;
+		height: auto;
+	}
+	
+	#DIARY {
+		max-width: 100%;
+		height: auto;
+	}
+	
+	#PY {
+		max-width: 100%;
+		height: auto;
+	}
+	
+	#THEDAL01 {
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+@media screen and (min-width:640px) {
+	#BG {
+		background-image:url(Images/BG1.jpg);
+		position: absolute;
+		height: 100%;
+		z-index: 1;
+		background-size: cover;
+		background-attachment: fixed;
+  		background-position: 50%;
+  		background-repeat: no-repeat;
+	}
+	
+	#DCLOGO2 {
+		display: none;
+	}
+	
+	#DCLOGO {
+		width: 100%;
+		height: 100%;
+	}
+
+	#FILM01 {
+		display: none;
+	}
+	
+	#SHORTFILM01 {
+		display: none;
+	}
+	
+	#SHORTFILM02 {
+		display: none;
+	}
+	
+	#THEDAL001 {
+		display: none;
+	}
+	
+	#M2 {
+		display: none;
+	}
+	
+	#m2 {
+		display: none;
+	}
+	
+	#G2 {
+		display: none;
+	}
+	
+	#g2 {
+		display: none;
+	}
+	
+	#g4 {
+		display: none;
+	}
+	
+	#SS2 {
+		display: none;
+	}
+	
+	#ss2 {
+		display: none;
+	}
+	
+	#JJ2 {
+		display: none;
+	}
+	
+	#jj2 {
+		display: none;
+	}
+	
+	#KL2 {
+		display: none;
+	}
+	
+	#kl2 {
+		display: none;
+	}
+	
+	#R2 {
+		display: none;
+	}
+	
+	#r2 {
+		display: none;
+	}
+	
+	#SR2 {
+		display: none;
+	}
+	
+	#sr2 {
+		display: none;
+	}
+	
+	#D2 {
+		display: none;
+	}
+	
+	#d2 {
+		display: none;
+	}
+	
+	#T2 {
+		display: none;
+	}
+	
+	#t2 {
+		display: none;
+	}
+	
+	#A2 {
+		display: none;
+	}
+	
+	#a2 {
+		display: none;
+	}
+	
+	#Y2 {
+		display: none;
+	}
+	
+	#y2 {
+		display: none;
+	}
+	
+	#I2 {
+		display: none;
+	}
+	
+	#i2 {
+		display: none;
+	}
+	
+	#S2 {
+		display: none;
+	}
+	
+	#s2 {
+		display: none;
+	}
+}
+
+#CREATIONS1 {
+	width: 114px;
+	height: 30px;
+}
+
+#CREATIONS2 {
+	width: 114px;
+	height: 30px;
+}
+
+#CREATIONS3 {
+	width: 114px;
+	height: 30px;
+}
+
+#MEMBERS1 {
+	width: 77px;
+	height: 30px;
+}
+
+#MEMBERS2 {
+	width: 77px;
+	height: 30px;
+}
+
+button {
+	background-color:burlywood;
+	border: none;
+}
+
+button:hover {
+	background-color:darkorange;
+}
+
+.Shadow {
+	text-decoration: none;
+	text-shadow: 1px 1px 5px brown;
+}
+
+.navigationBtn {
+	padding: 8px;
+}
+
+.aLink{
+	text-decoration: none;
+	color: gold;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding-top: 5px
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.SUBbtn:hover {
+	padding: 0px 0px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a {
+	color: #FF0004;
+	text-decoration: none;
+	display: block;
+}
